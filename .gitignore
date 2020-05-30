@@ -4,6 +4,10 @@
 *.user
 *.userosscache
 *.sln.docstates
-
-# Visual Studio 2015/2017 cache/options directory
+*.exe
+*.exe.metagen
+*.pdb
+# Visual Studio 2015/2017/2019 directorios
 .vs/
+Debug/
+FormTestX/Debug/

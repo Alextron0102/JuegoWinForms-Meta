@@ -23,5 +23,20 @@
     <ClInclude Include="frmPrincipal.h">
       <Filter>Resource Files</Filter>
     </ClInclude>
+    <ClInclude Include="VFigura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CFigura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCuadrado.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCirculo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CRombo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
